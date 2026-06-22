@@ -1,4 +1,4 @@
-# Practise Question
+# Practice Question
 
 - Open Pull Requests for the questions you want to make available via https://www.olukayode.tech/goodies/checkpoint
 
